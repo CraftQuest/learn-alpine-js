@@ -1,2 +1,4 @@
-# learn-alpine-js
-From the CraftQuest.io livestream.
+# CraftQuest.io Learn in Public: Alpine.js
+_From the CraftQuest.io livestream._
+
+
